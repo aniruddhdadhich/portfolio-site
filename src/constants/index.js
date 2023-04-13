@@ -173,27 +173,30 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Aniruddh consistently demonstrate an exceptional creativity, attention to detail and eagerness to learn, making him an asset to any team.",
     name: "Anand Panchbhai",
     designation: "Co-Founder and CTO",
     company: "LogyAI",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image:
+      "https://github.com/aniruddhdadhich/image-dumping/blob/master/Anand.jpg?raw=true",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Having worked with Aniruddh on several projects, I can attest to their skills in JavaScript and React, as well as their ability to work collaboratively and adapt to new technologies.",
     name: "Astha Aggarwal",
     designation: "SDE",
     company: "Goldman Sachs",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image:
+      "https://pbs.twimg.com/profile_images/1345815551558389766/-5VxD4Ci_400x400.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Aniruddh possesses a rare combination of creativity, visual skills, and a strong work ethic that make him an ideal candidate for any entry-level job opportunity.",
     name: "Anurag Kumar",
     designation: "SDE-2",
-    company: "Acceleya Group",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Accelya Group",
+    image:
+      "https://github.com/aniruddhdadhich/image-dumping/blob/master/anurag.jpg?raw=true",
   },
 ];
 
