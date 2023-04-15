@@ -140,8 +140,8 @@ const experiences = [
     iconBg: "E6DEDD",
     date: "May 2019 - Jul 2019",
     points: [
-      "The project Semantic Segmentation ofH&Estained Histopathology Images funded by SERB,Department of Science and Technology in which U-NET was used to detect cancer cell images which increased the accuracy of the model from 82% to 92.1% as compared to regular CNNs.",
-      "Subsequently used Depth-wise separable convolution with diff erent dilation factors in the standard U-NET to increase the accuracy to 96.91%",
+      "The project Semantic Segmentation of H&E stained Histopathology Images funded by SERB, Department of Science and Technology in which U-NET was used to detect cancer cell images which increased the accuracy of the model from 82% to 92.1% as compared to regular CNNs.",
+      "Subsequently used Depth-wise separable convolution with different dilation factors in the standard U-NET to increase the accuracy to 96.91%",
     ],
   },
   {
@@ -164,8 +164,8 @@ const experiences = [
     date: "Jan 2022 - Mar 2023",
     points: [
       "Gained valuable experience in both product management and development.",
-      "My primary focuswas on creating chatbots for dental and cataract screening using Django dashboard and Whatsapp API, which utilized computer vision technology",
-      "In addition to development, I also handledUser experience and Lead generat ion challenges.",
+      "My primary focus was on creating chatbots for dental and cataract screening using Django dashboard and Whatsapp API, which utilized computer vision technology",
+      "In addition to development, I also handled User experience and Lead generation challenges.",
     ],
   },
 ];
