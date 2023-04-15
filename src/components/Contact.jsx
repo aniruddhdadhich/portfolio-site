@@ -39,7 +39,7 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          alert("Thank you, I'll get back to ASAP.");
+          alert("Thank you, I'll get back to you ASAP.");
 
           setForm({
             name: "",
