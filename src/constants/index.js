@@ -161,7 +161,7 @@ const experiences = [
     company_name: "Logy.AI",
     icon: "https://github.com/LogyAI/cdn/blob/main/logo_square.jpeg?raw=true",
     iconBg: "#fff",
-    date: "Jan 2022 - Mar 2023",
+    date: "Jan 2023 - Mar 2023",
     points: [
       "Gained valuable experience in both product management and development.",
       "My primary focus was on creating chatbots for dental and cataract screening using Django dashboard and Whatsapp API, which utilized computer vision technology",
