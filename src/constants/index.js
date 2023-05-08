@@ -115,7 +115,7 @@ const technologies = [
   },
   {
     name: "MySQL",
-    icon: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png",
+    icon: "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
   },
   {
     name: "Three JS",
