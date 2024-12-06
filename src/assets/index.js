@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import astha from "./astha.jpeg"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -32,6 +33,7 @@ import tripguide from "./tripguide.png";
 
 import linkedin from "./linkedin.svg";
 import githubimg from "./github.png";
+import NITK from "./company/NITK.png"
 
 export {
   logo,
@@ -64,4 +66,6 @@ export {
   tripguide,
   linkedin,
   githubimg,
+  NITK,
+  astha
 };

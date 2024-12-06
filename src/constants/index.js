@@ -13,19 +13,13 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   linkedin,
   githubimg,
+  NITK,
+  astha
 } from "../assets";
+
 
 export const navLinks = [
   {
@@ -136,8 +130,8 @@ const experiences = [
   {
     title: "Deep Learning Research Intern",
     company_name: "National Institute of Technology, Karnataka",
-    icon: "https://scontent.fpnq16-1.fna.fbcdn.net/v/t39.30808-6/301998093_452050050278265_740798320161057717_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=EtGc8MfWVlcAX_RpudX&_nc_oc=AQlBDFlnUa-cDHl-LmLbZdl_Ac2h4CwK4GozgTHm93XnaEQqmDrSzpGy02JTuJFTHio&_nc_ht=scontent.fpnq16-1.fna&oh=00_AfCYsxA5O06qkkQsaBP66z00wXlFLrGopSI4xuYdvhuVRw&oe=643D95E0",
-    iconBg: "E6DEDD",
+    icon: NITK,
+    iconBg: "#fff",
     date: "May 2019 - Jul 2019",
     points: [
       "The project Semantic Segmentation of H&E stained Histopathology Images funded by SERB, Department of Science and Technology in which U-NET was used to detect cancer cell images which increased the accuracy of the model from 82% to 92.1% as compared to regular CNNs.",
@@ -184,10 +178,9 @@ const testimonials = [
     testimonial:
       "Having worked with Aniruddh on several projects, I can attest to their skills in JavaScript and React, as well as their ability to work collaboratively and adapt to new technologies.",
     name: "Astha Aggarwal",
-    designation: "SDE",
-    company: "Goldman Sachs",
-    image:
-      "https://pbs.twimg.com/profile_images/1345815551558389766/-5VxD4Ci_400x400.jpg",
+    designation: "SDE-2",
+    company: "Microsoft",
+    image:astha,
   },
   {
     testimonial:
